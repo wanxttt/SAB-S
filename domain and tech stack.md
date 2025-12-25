@@ -9,17 +9,24 @@ We Have Chosen the Domain IOT and Smart Automation
 Techenical Components Used
 
 1.) Robot Chasis 
+
 2.) 4 - DC motor 
+
 3.) 4 - wheels
+
 4.) 1 - Arduino UNO 
+
 5.) 1 - Motor Driver Shield 
+
 6.) some Connecting Wires 
+
 7.) Servo Motor 
+
 8.) HCSR-04 UltraSonic Sensor 
 
-##Uses 
+## Uses 
 
-11.) HCSR-04 - We Have used HCSR-04 for detecting the object obstacle detetction
+1.) HCSR-04 - We Have used HCSR-04 for detecting the object obstacle detetction
 if any obstacles has been found Then the robot will move slighlty backward 
 Have some turn then move forward 
 
