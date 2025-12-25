@@ -1,6 +1,7 @@
 We Have Chosen the Domain IOT and Smart Automation 
 
-Tech Stack 
+Tech Stack
+
 1.) Robot Chasis 
 2.) 4 - DC motor 
 3.) 4 - wheels
@@ -12,12 +13,15 @@ Tech Stack
 
 Uses 
 
-HCSR-04  - We Have used HCSR-04 for detecting the object obstacle detetction
+HCSR-04 - We Have used HCSR-04 for detecting the object obstacle detetction
 if any obstacles has been found Then the robot will move slighlty backward 
 Have some turn then move forward 
 
-Motor Driver Shield for controlling the 4 different Motors
+Motor Driver Shield - for controlling the 4 different Motors
 
-Servo 
+Servo Motor - For having the 180 degree movement of HCSR-04 
 
+Motor and Wheels - for the movement of robot 
+
+Arduino UNO - brain of the robot
 
