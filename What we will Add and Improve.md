@@ -1,6 +1,6 @@
-## AiVi - Where AI Meets HumanCare
+# AiVi - Where AI Meets HumanCare
 
-# Improvement for Round 2:-
+## Improvement for Round 2:-
 
 We will make a full fleged mobile app which will be used for controlling and monitoring the medication robot. This app will show the feature of manual restock, where care taker or family person can add the medicines manually inside the app.
 
@@ -12,4 +12,5 @@ Along with medicine features, the app will also show robot battery status, like 
 
 
 Overall this mobile app is very helpful for medicine management, restocking process, patient medicine history and robot monitoring. This system is mainly useful for elderly people, chronic disease patient and differently abled persons, where regular medicine is very important
+
 
