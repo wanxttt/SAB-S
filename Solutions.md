@@ -2,7 +2,7 @@
 
 AiVa is an AI-powered assistive robotic system engineered to bridge the gap between medical technology and empathetic elderly care. It specifically targets medication non-adherence in elderly, chronic-care, and disabled populations.
 
-## 🛠 Core Technical Solution
+## Core Technical Solution
 
 Our system automates the medication delivery cycle through a three-stage process:
 
@@ -11,7 +11,7 @@ Our system automates the medication delivery cycle through a three-stage process
 * **Fail-safe Mechanism:** The alert remains active until physical or voice acknowledgement is received, ensuring reminders are never missed due to deep sleep or hearing impairment.
 
 ### 2. Signal-Based Navigation (Homing)
-* **Smart Wristband Integration:** Once the alert is acknowledged, a wearable smart wristband begins emitting localized signals (RF/Ultrasonic).
+* **Smart Wristband Integration:** Once the alert is acknowledged, a wearable smart wristband begins emitting IR signals.
 * **Signal Strength Localization:** The robot utilizes RSSI (Received Signal Strength Indicator) logic to triangulate and follow the strongest signal path, allowing it to navigate directly to the patient’s precise location without requiring a pre-mapped environment.
 
 ### 3. Precision Delivery
@@ -19,10 +19,10 @@ Our system automates the medication delivery cycle through a three-stage process
 
 ---
 
-## ⚖️ Intellectual Property & Innovation
+## Intellectual Property & Innovation
 * **Patent Status:** This solution is officially protected under **Patent Number: 202511095020**.
 * **Innovation Focus:** Unlike stationary dispensers, AiVa’s proactive mobility ensures the medicine reaches the patient, rather than expecting the patient to reach the medicine.
 
-## 🔮 Future Roadmap (Round 2)
+##  Future Roadmap (Round 2)
 * **Inventory Management:** Automated medicine stock tracking via a dedicated mobile application.
 * **Caregiver Synchronization:** Real-time push notifications to caregivers when a dose is successfully administered or if a refill is required.
