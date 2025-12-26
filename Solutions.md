@@ -10,7 +10,7 @@ Our system automates the medication delivery cycle through a three-stage process
 * **Persistence Logic:** At scheduled intervals, AiVa triggers a high-frequency acoustic alarm. 
 * **Fail-safe Mechanism:** The alert remains active until physical or voice acknowledgement is received, ensuring reminders are never missed due to deep sleep or hearing impairment.
 
-### 2. Signal-Based Navigation (Homing)
+### 2. Signal-Based Navigation (Homing)  
 * **Smart Wristband Integration:** Once the alert is acknowledged, a wearable smart wristband begins emitting IR signals.
 * **Signal Strength Localization:** The robot utilizes RSSI (Received Signal Strength Indicator) logic to triangulate and follow the strongest signal path, allowing it to navigate directly to the patient’s precise location without requiring a pre-mapped environment.
 
@@ -26,3 +26,4 @@ Our system automates the medication delivery cycle through a three-stage process
 ##  Future Roadmap (Round 2)
 * **Inventory Management:** Automated medicine stock tracking via a dedicated mobile application.
 * **Caregiver Synchronization:** Real-time push notifications to caregivers when a dose is successfully administered or if a refill is required.
+Automation of Mobile app will be added in future scope.
