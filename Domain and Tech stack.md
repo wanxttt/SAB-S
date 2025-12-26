@@ -1,25 +1,24 @@
-# Domain and Tech Stack: AiVa Project
+Domain and Tech Stack: AiVa Project-:
 
-## Domain
+Domain:
 
 We Have Chosen the Domain IOT and Smart Automation 
 
-### Project Domain
+Project Domain:
 * **Primary Domain:** Healthcare Technology / Geriatric Care
 * **Sub-Domain:** Robotics and Artificial Intelligence (AI)
 * **Innovation:** Assistive IoT (Internet of Things)
 
   
-### Technical Stack
+Technical Stack:
 * **Hardware:** Arduino,Ultrasonic Sensors, Motor Drivers,four DC Motors.
 * **Software:** C++ / Python (Robot Logic), Mobile Application (Caregiver interface).
 * **Communication:** RF Signal Processing for patient homing/localization.
 * **Patent ID:** 202511095020 (Registered Innovation)# AiVa - Where AI Meets Human Care 
 
+Tech Stack:
 
-## Tech Stack
-
-Techenical Components Used
+Techenical Components Used-:
 
 1.) Robot Chasis 
 
@@ -37,8 +36,7 @@ Techenical Components Used
 
 8.) HCSR-04 UltraSonic Sensor 
 
-## Uses 
-
+ Uses:
 
 1.) HCSR-04 - We Have used HCSR-04 for detecting the object obstacle detetction
 if any obstacles has been found Then the robot will move slighlty backward 
