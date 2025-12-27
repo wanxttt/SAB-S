@@ -1,4 +1,6 @@
- Problem Statement: The Crisis of Medication Non-Adherence
+
+
+## Problem Statement: The Crisis of Medication Non-Adherence
 
  The Core Challenge
 Individuals suffering from chronic diseases, the elderly, and the physically disabled face a significant hurdle in maintaining their health: **medication consistency**. Relying on daily prescriptions is a necessity, yet the ability to manage these routines is often compromised by memory loss, age-related decline, or physical limitations.
