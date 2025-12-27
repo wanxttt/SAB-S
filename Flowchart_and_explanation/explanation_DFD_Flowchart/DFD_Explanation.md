@@ -1,4 +1,5 @@
-DFD Explanation of the AIVa System:
+# AiVa - Where Ai Meets Humancare
+## DFD Explanation of the AIVa System:
 
 The Data Flow Diagram (DFD) represents how information moves through the AIVa human care assistance system and how different components interact with each other to achieve the goal of timely medicine delivery to the patient.
 
@@ -14,3 +15,4 @@ Once the robot successfully reaches the patient’s location, the medicine dispe
 
 
 In summary, the DFD shows a continuous flow of data starting from patient input, moving through signal transmission, sensor interpretation, navigation and obstacle handling, and finally ending with medicine delivery. This structured flow ensures accuracy, safety, and minimal response time in patient care.
+
