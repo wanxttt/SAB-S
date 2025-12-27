@@ -26,4 +26,4 @@ Our system automates the medication delivery cycle through a three-stage process
 ##  Future Roadmap (Round 2)
 * **Inventory Management:** Automated medicine stock tracking via a dedicated mobile application.
 * **Caregiver Synchronization:** Real-time push notifications to caregivers when a dose is successfully administered or if a refill is required.
-Automation of Mobile app will be added in future scope.
+* Automation of Mobile app will be added in future scope.
