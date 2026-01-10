@@ -1,4 +1,29 @@
-# HOW PARTS WILL CONNECT WITH EACH OTHER 
+# What PARTS IT NEEDS AND HOW PARTS WILL CONNECT WITH EACH OTHER ( Below Is The Image ) 
+
+## Hardware Components Required
+1.) Robot and Control 2.)ESP32 Wi-Fi Microcontroller 3.)Motor Driver Shield (L298N or AFMotor Shield) 4.) Robot Chassis
+5.) 4 × DC Motors
+6.) 4 × Wheels
+7.) Servo Motor
+8.)  Sensors
+9.) IR Sensors (3 × for light or direction tracking)
+10.) Ultrasonic Sensor (HC-SR04)
+11.) Power and Wiring
+12.) Battery Pack (7.4V / 9V / suitable for motors)
+13.) Jumper Wires (Male–Male, Male–Female)
+14.) Power Switch
+
+Software and Cloud Components
+
+1.) Firebase Realtime Database
+
+2.) Firebase Authentication
+
+3.) Flutter Mobile Application
+
+4.) Arduino IDE (ESP32 Board Support)
+
+5.) Firebase ESP Client Library
 
 The system is built using three main layers: the robot hardware, Firebase backend, and mobile application. Each layer communicates with the others through clearly defined data paths to ensure smooth operation and real-time updates.
 
