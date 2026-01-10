@@ -1,0 +1,63 @@
+{
+  "users": {
+    "user_001": {
+      "full_name": "Aniket Dwivedi",
+      "email": "anixxdwivedi@gmail.com",
+      "profile": {
+        "disease": "Seasonal Allergies",
+        "medication_history": "Cetirizine (10mg), Vitamin D Supplements",
+        "blood_group": "B+"
+      },
+      "settings": {
+        "notifications_enabled": true,
+        "theme_mode": "cyber_dark"
+      }
+    }
+  },
+  "robot_status": {
+    "aiva_bot_01": {
+      "status": "Active",
+      "battery_level": 82,
+      "cpu_temperature": 45.5,
+      "current_task": "Patrolling Sector 4",
+      "wifi_strength": "Strong",
+      "last_active": "2026-01-08T15:30:00"
+    }
+  },
+  "operator_health": {
+    "current_session": {
+      "heart_rate": 78,
+      "pulse": 76,
+      "oxygen_level": 98,
+      "stress_level": "Normal"
+    }
+  },
+  "inventory": {
+    "item_101": {
+      "name": "Hydraulic Servo",
+      "category": "Spare Parts",
+      "quantity": 5,
+      "status": "In Stock"
+    },
+    "item_102": {
+      "name": "Li-Ion Battery Pack",
+      "category": "Power",
+      "quantity": 2,
+      "status": "Low Stock"
+    },
+    "item_103": {
+      "name": "Optical Sensor Unit",
+      "category": "Sensors",
+      "quantity": 8,
+      "status": "In Stock"
+    }
+  },
+  "alerts": {
+    "alert_001": {
+      "type": "Warning",
+      "message": "Battery below 20% on Unit 3",
+      "timestamp": "2026-01-08T14:00:00",
+      "is_read": false
+    }
+  }
+}
