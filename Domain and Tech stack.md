@@ -11,7 +11,7 @@ Project Domain:
 
   
 Technical Stack:
-* **Hardware:** Arduino,Ultrasonic Sensors, Motor Drivers,four DC Motors.
+* **Hardware:** ESP32,Ultrasonic Sensors, Motor Drivers,four DC Motors.
 * **Software:** C++ / Python (Robot Logic), Mobile Application (Caregiver interface).
 * **Communication:** RF Signal Processing for patient homing/localization.
 * **Patent ID:** 202511095020 (Registered Innovation)# AiVa - Where AI Meets Human Care 
@@ -26,7 +26,7 @@ Techenical Components Used-:
 
 3.) 4 - wheels
 
-4.) 1 - Arduino UNO 
+4.) 1 - ESP 32
 
 5.) 1 - Motor Driver Shield 
 
